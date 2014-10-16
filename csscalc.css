@@ -1,0 +1,35 @@
+.calc_background {
+	width: 200px;
+	height: 200px;
+	background-image: url('http://www.psdgraphics.com/file/dirty-metal-surface.jpg');
+	border-style: outset;
+	text-align: center;
+}
+/*input childs*/
+.display {
+	width: 195px;
+	height: 20%;
+	background-color: white;
+	border-style: inset;
+	border-color: lightgray;
+	margin-top: ;
+	margin-left: auto;
+	margin-bottom: ;
+}
+/*input childs dont forget*/
+.button_lol { 
+	width: ;
+	height: ;
+	background-color: ;
+	margin-top: ;
+	margin-bottom: ;
+	margin-left: auto;
+}
+#close {
+	width: ;
+	height: ;
+	background-color: ;
+	float: ;
+	margin-right: ;
+	font-size: ;
+}
